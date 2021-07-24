@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidXamLayout1", "AndroidXamLayout1\AndroidXamLayout1.csproj", "{24A24360-84D5-4DD4-AEC3-4D09A8414A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A24360-84D5-4DD4-AEC3-4D09A8414A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A24360-84D5-4DD4-AEC3-4D09A8414A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A24360-84D5-4DD4-AEC3-4D09A8414A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A24360-84D5-4DD4-AEC3-4D09A8414A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA394ED9-BB9A-40ED-974A-5C8F0D4D6F8F}
+	EndGlobalSection
+EndGlobal
