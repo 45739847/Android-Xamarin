@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="exemplo.png" alt="exemplo imagem">
 
 > Criado para ser usado como projeto base. tendo assim cesso as estilizações e algumas funções em xaml
 
@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="photo_2021-07-14_17-16-31.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
